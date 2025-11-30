@@ -15,3 +15,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dragoschisca)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=6&hide=css,html,blade,jupyter%20notebook)
