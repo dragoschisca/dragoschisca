@@ -11,3 +11,11 @@
 </div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dragoschisca)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragoschisca&theme=radical)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragoschisca&theme=radical)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dragoschisca&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragoschisca&theme=radical)
