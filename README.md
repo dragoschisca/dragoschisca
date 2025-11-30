@@ -16,3 +16,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dragoschisca)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=6&hide=css,html,blade,jupyter%20notebook)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=15)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=10&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragoschisca&theme=radical)
