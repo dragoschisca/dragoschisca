@@ -8,5 +8,9 @@
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=6&hide=css,html,blade,jupyter%20notebook)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=6&hide=css,html,blade,jupyter%20notebook)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=10)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&langs_count=6&hide=css,html,blade,jupyter%20notebook&v=2)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dragoschisca)
 
