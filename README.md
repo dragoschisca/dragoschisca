@@ -1,7 +1,10 @@
 ### 👋 Salut, sunt Dragoș!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragoschisca&show_icons=true&theme=radical)
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=dragoschisca&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoschisca&layout=compact&theme=radical&hide=html,jupyter,css,blade,notebook)
+<!-- Profile Trophy -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=dragoschisca&theme=radical&column=7)
 
+<!-- LeetCode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dragoschisca)
